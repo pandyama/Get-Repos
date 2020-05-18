@@ -9,6 +9,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## Backend Node Server
 
 backend is developed using nodejs where the API call to github API is made and sent back to Angular
+For more details see the following repo that has the Nodejs Server code
+https://github.com/pandyama/Node-Server
 
 
 ![1](https://github.com/pandyama/Get-Repos/blob/master/capture1.PNG)
