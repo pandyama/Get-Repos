@@ -1,0 +1,17 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+  }
+
+  mat-form-field{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
